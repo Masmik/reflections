@@ -24,9 +24,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+ За допомогою Дропбокс, але це було б важче, так як файл посітйно змінюється, можна внести зміни, котрі будуть корелювати зі змінами інших участників, або внести зміну, яку б не варто було чи з помилкою.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Коли потрібно працювати з іншими людьми в команді. З однією вєткою працювати простіше, проте моеж виникнути більеш проблем.
